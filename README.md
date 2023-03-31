@@ -38,9 +38,10 @@ My chosen API for this project is **pokeapi**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://user-images.githubusercontent.com/96799357/229005121-66ae9c10-d93c-4b1c-a536-2c95b85631f3.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
