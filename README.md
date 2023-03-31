@@ -2,7 +2,7 @@
 
 Submitted by: **Prabhdeep Brar**
 
-Time spent: *6** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Summary
 
