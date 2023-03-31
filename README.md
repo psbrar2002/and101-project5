@@ -1,12 +1,12 @@
 # AND101 Project 5 - Choose Your Own API
 
-Submitted by: **Your Name Here**
+Submitted by: **Prabhdeep Brar**
 
-Time spent: **X** hours spent in total
+Time spent: *6** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a random character from the Game of Thrones API")**
+**Pokemon Generator** is an android app that **That generates random pokemon with their name and id.**
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
@@ -16,9 +16,9 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Display at least three (3) pieces of data for each API entry retrieved
-- [ ] A working Button requests a new API entry and updates the data displayed
+- [x] Make an API call to an API of your choice using AsyncHTTPClient
+- [x] Display at least three (3) pieces of data for each API entry retrieved
+- [x] A working Button requests a new API entry and updates the data displayed
 
 The following STRETCH features are implemented:
 
@@ -32,7 +32,7 @@ The following EXTRA features are implemented:
 
 ## API Choice
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **pokeapi**.
 
 ## Video Demo
 
@@ -53,7 +53,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Prabhdeep Brar**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
