@@ -8,7 +8,7 @@ Time spent: **6** hours spent in total
 
 **Pokemon Generator** is an android app that **That generates random pokemon with their name and id.**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **🤔😯😎**
 
 ## Application Features
 
@@ -50,7 +50,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I was able to learn more about API's and Kotlin overall while becoming more familiar with xml.
 
 ## License
 
